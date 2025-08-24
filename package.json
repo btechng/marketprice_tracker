@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
+    "seed": "node seed.js",
     "dev": "nodemon src/index.js"
   },
   "dependencies": {
